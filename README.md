@@ -1,2 +1,3 @@
-# C_practice
-Let's learn C# &amp; C++
+# 🤔 C_practice
+Let's learn C# & C++
+
